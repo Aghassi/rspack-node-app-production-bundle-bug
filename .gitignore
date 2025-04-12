@@ -101,3 +101,5 @@ rsbuild-dist
 .tern-port
 
 
+rspack-dist
+webpack-dist
